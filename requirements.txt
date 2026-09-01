@@ -1,0 +1,13 @@
+﻿torch
+torchvision
+timm
+PyWavelets
+opencv-python
+scikit-image
+lightly
+einops
+albumentations
+scikit-learn
+grad-cam
+wandb
+hydra-core
