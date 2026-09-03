@@ -11,3 +11,4 @@ scikit-learn
 grad-cam
 wandb
 hydra-core
+elpv-dataset
