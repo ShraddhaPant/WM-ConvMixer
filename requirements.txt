@@ -12,3 +12,7 @@ grad-cam
 wandb
 hydra-core
 elpv-dataset
+ipykernel
+matplotlib
+pandas
+tqdm

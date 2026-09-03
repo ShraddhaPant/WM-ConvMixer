@@ -6,5 +6,6 @@ __pycache__/
 *.pt
 *.pth
 checkpoints/
-data/raw/
+data/
 wandb/
+
